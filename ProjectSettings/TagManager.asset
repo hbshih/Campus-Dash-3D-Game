@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ATM_Destination
+  - ChiWah_Destination
+  - MTR_Destination
+  - 's_point1 '
+  - ChiWah2_Destination
+  - ChiWah3_Destination
+  - Centennial_Destination
+  - CYC_Destination
+  - SU_Destination
+  - HW_Destination
+  - SU2_Destination
+  - Shirley_Gathering_Point
+  - Lib_Destination
+  - MTR0
+  - MTR1
+  - MTR2
+  - MTR3
+  - MTR4
+  - MTR5
+  - MTR6
+  - MTR7
+  - MTR8
+  - MTR9
+  - MTR10
+  - MTR11
+  - MTR12
+  - MTR13
+  - MTR14
+  - MTR15
+  - MTR16
+  - MTR17
+  - MTR18
+  - MTR19
+  - MTR20
+  - MTR21
+  - MTR22
+  - MTR23
+  - MTR24
+  - MTR25
+  - MTR26
+  - MTR27
+  - MTR28
+  - MTR29
+  - MTR30
+  - MTR31
+  - MTR32
+  - MTR33
+  - MTR34
+  - MTR35
+  - MTR36
+  - MTR37
+  - MTR38
+  - MTR39
+  - DamageImage
+  - Grandma
+  - Subway0
+  - Subway1
+  - Subway2
+  - Subway3
+  - Subway4
+  - Subway5
+  - Subway6
+  - Subway7
+  - Subway8
+  - Subway9
+  - Subway10
+  - Subway11
+  - Subway12
+  - Subway13
+  - Subway14
+  - Subway15
+  - Subway16
+  - Subway17
+  - Subway_Destination
+  - CYM_Destination
+  - HSBC_Destination
+  - GradHouse_Destination
+  - Apple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
